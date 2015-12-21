@@ -1,0 +1,8 @@
+C:\vs2010\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe
+C:\vs2010\MyBrowser\MyBrowser\bin\Debug\MyBrowser.pdb
+C:\vs2010\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.Form1.resources
+C:\vs2010\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.Properties.Resources.resources
+C:\vs2010\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.csproj.GenerateResource.Cache
+C:\vs2010\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.exe
+C:\vs2010\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.pdb
+C:\vs2010\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.FormSource.resources
